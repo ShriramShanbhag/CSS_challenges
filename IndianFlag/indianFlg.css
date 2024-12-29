@@ -1,0 +1,107 @@
+.circle {
+    height: 97px;
+    width: 97px;
+    background: white;
+    border-radius: 50%;
+    border: 2px solid blue;
+    margin: auto;
+  }
+  
+  .spoke1 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(15deg);
+  }
+  
+  .spoke2 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(30deg);
+  }
+  
+  .spoke3 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(45deg);
+  }
+  
+  .spoke4 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(60deg);
+  }
+  .spoke5 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(75deg);
+  }
+  .spoke6 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(90deg);
+  }
+  .spoke7 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(105deg);
+  }
+  .spoke8 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(120deg);
+  }
+  .spoke9 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(135deg);
+  }
+  .spoke10 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(150deg);
+  }
+  .spoke11 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(165deg);
+  }
+  .spoke12 {
+    border: 1px solid blue;
+    height: 97px;
+    position: absolute;
+    transform: translatex(50px) rotate(180deg);
+  }
+  
+  .flag {
+    width: 400px;
+    height: 300px;
+  }
+  
+  .strip {
+    height: 33%;
+    width: 100%;
+  }
+  
+  .saffron {
+    background: orange;
+  }
+  .white {
+    background: white;
+  }
+  .green {
+    background: green;
+  }
+  
+  
+  
